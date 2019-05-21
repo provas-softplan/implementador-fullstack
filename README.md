@@ -29,7 +29,7 @@ Procuramos desenvolvedor versátil para resolver os mais diversos problemas, que
 
 ### Instruções para o desafio
 
-- Após a conclusão do Desafio você deverá disponibilizá-lo em um repositório público no Github e enviar o link para o e-mail: lauriane.moco@softplan.com.br com cópia para nicole.santos@softplan.com.br.
+- Após a conclusão do Desafio você deverá disponibilizá-lo em um repositório público no Github e enviar o link para o e-mail: lauriane.moco@softplan.com.br.
 
 
 ### Desafio
